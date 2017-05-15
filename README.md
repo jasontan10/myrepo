@@ -1,2 +1,2 @@
 # myrepo
-This is a lione from RStudio
+This is a line from RStudio
